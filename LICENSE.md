@@ -1,4 +1,4 @@
-# 
+# Enhance RStudio for PC | RStudio for Windows with smart RStudio for PC | RStudio for Windows Module | pivot-tables + macro-recording, the #1 module. Includes pivot-tables and
 
 
 
